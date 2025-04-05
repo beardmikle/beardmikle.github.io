@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Support</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>App Support</h1>
+    <p>Last updated: April 05, 2025</p>
+    
+    <h2>1. Welcome</h2>
+    <p>Welcome to the support page for our application! We are here to assist you with any questions or issues related to the app.</p>
+    
+    <h2>2. Contact Us</h2>
+    <p>If you need help, have questions, or want to provide feedback about the app, please reach out to us at:</p>
+    <p><strong>Email:</strong> <a href="mailto:beardmikle@gmail.com">beardmikle@gmail.com</a></p>
+    <p>We aim to respond to all inquiries within 48 hours.</p>
+    
+    <h2>3. About the App</h2>
+    <p>Our application provides tools and resources [указать краткое описание приложения, например, "for engineering calculations and reference materials"]. We do not collect or store any personal data from users. For more details, see our <a href="https://beardmikle.github.io/privacy.html">Privacy Policy</a>.</p>
+    
+    <h2>4. Troubleshooting</h2>
+    <p>If you encounter any issues with the app, try the following steps:</p>
+    <ul>
+        <li>Ensure you have the latest version installed from the App Store.</li>
+        <li>Restart the app or your device.</li>
+        <li>Contact us at <a href="mailto:beardmikle@gmail.com">beardmikle@gmail.com</a> if the problem persists.</li>
+    </ul>
+</body>
+</html>
